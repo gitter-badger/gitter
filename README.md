@@ -2,6 +2,7 @@
 
 Discuss and file Gitter issues here
 ----
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/gitterHQ/gitter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Join our online chat at [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/gitterHQ/gitter)
 
