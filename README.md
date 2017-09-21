@@ -1,11 +1,6 @@
-![GITTER](http://i.imgur.com/DozxXlJ.png)
+![GITTER](http://i.imgur.com/8ZX0M4X.png)
 
-Discuss and file Gitter issues here
-----
+This project has now moved to [GitLab](https://gitlab.com/gitlab-org/gitter/).
 
-Join our online chat at [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/gitterHQ/gitter)
 
-More info at [gitter.im](https://gitter.im)
-
-Trello: [trello.com/b/ghYXB9rc/gitter-dev](https://trello.com/b/ghYXB9rc/gitter-dev)
-
+[![Join the chat at https://gitter.im/gitter123123/Lobby](https://badges.gitter.im/gitter123123/Lobby.svg)](https://gitter.im/gitter123123/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
